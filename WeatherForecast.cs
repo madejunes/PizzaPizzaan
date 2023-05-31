@@ -1,4 +1,4 @@
-namespace dotnetwebapi;
+namespace PizzaPizzaan;
 
 public class WeatherForecast
 {

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace dotnetwebapi.Controllers;
+namespace PizzaPizzaan.Controllers;
 
 [ApiController]
 [Route("[controller]")]

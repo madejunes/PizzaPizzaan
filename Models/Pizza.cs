@@ -1,5 +1,5 @@
 ﻿
-namespace dotnetwebapi.Models;
+namespace PizzaPizzaan.Models;
 
 public class Pizza
 {

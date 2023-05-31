@@ -1,5 +1,6 @@
-using dotnetwebapi.Models;
-namespace dotnetwebapi.Services;
+using PizzaPizzaan.Models;
+
+namespace PizzaPizzaan.Services;
 
 public static class PizzaService {
   static List<Pizza> Pizzas {get;}
